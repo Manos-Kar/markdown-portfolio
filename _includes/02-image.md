@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![pao_logo](https://lh3.googleusercontent.com/vI609yMhlSZJGFPdY6foOMa6GNfKWLH1VTWON2LECrk77bA6c4EsSMu8x82rknhZlKA)
